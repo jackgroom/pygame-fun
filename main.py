@@ -1,11 +1,11 @@
 import pygame
 
 from board import Board
+from player import Player
 
 
 def main():
-    board = Board(3, 3)
-    board.print_grid()
+    pass
 
 
 if __name__ == "__main__":

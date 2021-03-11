@@ -5,6 +5,3 @@ class Board():
 
         self.grid = [[0 for c in range(self.width)]
                      for r in range(self.height)]
-
-    def print_grid(self):
-        print(self.grid)
